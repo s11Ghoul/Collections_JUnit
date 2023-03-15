@@ -21,7 +21,7 @@ public class CarArrayList<T> implements CarList<T> {
         size++;
         return true;
     }
-
+123
     @Override
     public boolean add(T car, int index) {
         increaseArray();
